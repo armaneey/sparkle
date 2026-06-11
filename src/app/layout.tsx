@@ -7,6 +7,9 @@ import { AuthProvider } from "@/context/AuthContext";
 export const metadata: Metadata = {
   title: "Firebase Auth",
   description: "Firebase Authentication Demo",
+   verification:{
+    google: "GDs8gzkqUwPYn7b0mmXVjqR4JcXYOUbABZdxBeu9ZYM",
+  },
 };
 
 export default function RootLayout({

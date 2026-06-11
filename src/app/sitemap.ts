@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 
-const baseUrl = 'https://yourdomain.com';
+const baseUrl = 'https://sparkle-teal.vercel.app';
 
 const routes = [
   {
